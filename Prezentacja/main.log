@@ -1,0 +1,1110 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.23)  25 APR 2020 16:48
+entering extended mode
+**"c:/Users/matig/Desktop/Magisterskie/Semestr 1/MPPS/Prezentacja/main.tex"
+("c:/Users/matig/Desktop/Magisterskie/Semestr 1/MPPS/Prezentacja/main.tex"
+LaTeX2e <2018-12-01>
+(D:\app\matig\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
+(D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasemodes.sty (D:\app\matig\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+ (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasedecode.sty
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+\beamer@decode@box=\box28
+)
+\beamer@commentbox=\box29
+\beamer@modecount=\count85
+) (D:\app\matig\MiKTeX\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box30
+\beamer@animcurrent=\box31
+\beamer@animshowbox=\box32
+\beamer@sectionbox=\box33
+\beamer@logobox=\box34
+\beamer@linebox=\box35
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+ (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseoptions.sty (D:\app\matig\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+ (D:\app\matig\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ (D:\app\matig\MiKTeX\tex/generic/oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (D:\app\matig\MiKTeX\tex/generic/ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+ (D:\app\matig\MiKTeX\tex/latex/geometry\geometry.cfg)) (D:\app\matig\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+) (D:\app\matig\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (D:\app\matig\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\app\matig\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (D:\app\matig\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\app\matig\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (D:\app\matig\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+) (D:\app\matig\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (D:\app\matig\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+ (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box36
+ (D:\app\matig\MiKTeX\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (D:\app\matig\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+ (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\pgf@xd=\dimen138
+\pgf@yd=\dimen139
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+ (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+))) (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+) (D:\app\matig\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) (D:\app\matig\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (D:\app\matig\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen140
+\pgfmath@count=\count115
+\pgfmath@box=\box37
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count116
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen141
+\pgf@picmaxx=\dimen142
+\pgf@picminy=\dimen143
+\pgf@picmaxy=\dimen144
+\pgf@pathminx=\dimen145
+\pgf@pathmaxx=\dimen146
+\pgf@pathminy=\dimen147
+\pgf@pathmaxy=\dimen148
+\pgf@xx=\dimen149
+\pgf@xy=\dimen150
+\pgf@yx=\dimen151
+\pgf@yy=\dimen152
+\pgf@zx=\dimen153
+\pgf@zy=\dimen154
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen155
+\pgf@path@lasty=\dimen156
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen157
+\pgf@shorten@start@additional=\dimen158
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count117
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen159
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen160
+\pgf@pt@y=\dimen161
+\pgf@pt@temp=\dimen162
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen163
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count118
+\pgf@shadingcount=\count119
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box41
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (D:\app\matig\MiKTeX\tex/latex/pgf/utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count120
+\XC@countmixins=\count121
+) (D:\app\matig\MiKTeX\tex/generic/oberdiek\atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+ (D:\app\matig\MiKTeX\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (D:\app\matig\MiKTeX\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)) (D:\app\matig\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (D:\app\matig\MiKTeX\tex/generic/oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (D:\app\matig\MiKTeX\tex/generic/oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (D:\app\matig\MiKTeX\tex/latex/oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (D:\app\matig\MiKTeX\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+ (D:\app\matig\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count124
+ (D:\app\matig\MiKTeX\tex/latex/00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count125
+ (D:\app\matig\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen166
+\Fld@menulength=\count126
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count127
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (D:\app\matig\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+ (D:\app\matig\MiKTeX\tex/latex/oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaserequires.sty (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasecompatibility.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasefont.sty (D:\app\matig\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (D:\app\matig\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (D:\app\matig\MiKTeX\tex/latex/sansmathaccent\sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+ (D:\app\matig\MiKTeX\tex/latex/filehook\filehook.sty
+Package: filehook 2019/10/03 v0.6 Hooks for input files
+))) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetranslator.sty (D:\app\matig\MiKTeX\tex/latex/translator\translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasemisc.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetwoscreens.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseoverlay.sty
+\beamer@argscount=\count130
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count131
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetitle.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasesection.sty
+\c@lecture=\count132
+\c@part=\count133
+\c@section=\count134
+\c@subsection=\count135
+\c@subsubsection=\count136
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseframe.sty
+\beamer@framebox=\box42
+\beamer@frametitlebox=\box43
+\beamer@zoombox=\box44
+\beamer@zoomcount=\count137
+\beamer@zoomframecount=\count138
+\beamer@frametextheight=\dimen169
+\c@subsectionslide=\count139
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen170
+\c@framenumber=\count140
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseframesize.sty
+\beamer@splitbox=\box45
+\beamer@autobreakcount=\count141
+\beamer@autobreaklastheight=\dimen171
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseframecomponents.sty
+\beamer@footins=\box46
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasecolor.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box47
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetoc.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+ (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseauxtemplates.sty (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaseboxes.sty
+\bmb@box=\box48
+\bmb@colorbox=\box49
+\bmb@boxshadow=\box50
+\bmb@boxshadowball=\box51
+\bmb@boxshadowballlarge=\box52
+\bmb@temp=\dimen172
+\bmb@dima=\dimen173
+\bmb@dimb=\dimen174
+\bmb@prevheight=\dimen175
+)
+\beamer@blockheadheight=\dimen176
+)) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbaselocalstructure.sty (D:\app\matig\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count142
+\c@table=\count143
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen177
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasetheorems.sty (D:\app\matig\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(D:\app\matig\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (D:\app\matig\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen178
+)) (D:\app\matig\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen179
+) (D:\app\matig\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count144
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count145
+\leftroot@=\count146
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count147
+\DOTSCASE@=\count148
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen180
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count149
+\c@MaxMatrixCols=\count150
+\dotsspace@=\muskip11
+\c@parentequation=\count151
+\dspbrk@lvl=\count152
+\tag@help=\toks33
+\row@=\count153
+\column@=\count154
+\maxfields@=\count155
+\andhelp@=\toks34
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (D:\app\matig\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count156
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (D:\app\matig\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
+\beamer@dima=\dimen187
+\beamer@dimb=\dimen188
+) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerthemeMadrid.sty (D:\app\matig\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerinnerthemerounded.sty) (D:\app\matig\MiKTeX\tex/latex/beamer\beamerouterthemeinfolines.sty)) (D:\app\matig\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2019/10/08 v1.6180339 publication quality tables
+\heavyrulewidth=\dimen189
+\lightrulewidth=\dimen190
+\cmidrulewidth=\dimen191
+\belowrulesep=\dimen192
+\belowbottomsep=\dimen193
+\aboverulesep=\dimen194
+\abovetopsep=\dimen195
+\cmidrulesep=\dimen196
+\cmidrulekern=\dimen197
+\defaultaddspace=\dimen198
+\@cmidla=\count157
+\@cmidlb=\count158
+\@aboverulesep=\dimen199
+\@belowrulesep=\dimen256
+\@thisruleclass=\count159
+\@lastruleclass=\count160
+\@thisrulewidth=\dimen257
+) (D:\app\matig\MiKTeX\tex/latex/polski\polski.sty
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Switching to Polish text encoding and Polish maths fonts.
+(D:\app\matig\MiKTeX\tex/latex/base\ot4enc.def
+File: ot4enc.def 2018/08/11 v2.0j Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Try loading font information for OT4+cmss on input line 360.
+ (D:\app\matig\MiKTeX\tex/latex/polski\ot4cmss.fd
+File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 360.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 360.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 360.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
+) (D:\app\matig\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2019/04/01 3.28 The Babel package
+ (D:\app\matig\MiKTeX\tex/generic/babel\switch.def
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\app\matig\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (D:\app\matig\MiKTeX\tex/latex/babel-polish\polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+ (D:\app\matig\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count161
+\U@D=\dimen258
+ (D:\app\matig\MiKTeX\tex/generic/babel\txtbabel.def)
+LaTeX Info: Redefining \textlatin on input line 2011.
+\bbl@dirlevel=\count162
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen259
+\pl@down=\dimen260
+\pl@right=\dimen261
+\pl@temp=\dimen262
+)) (D:\app\matig\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+) (D:\app\matig\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (D:\app\matig\MiKTeX\tex/latex/base\t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (D:\app\matig\MiKTeX\tex/lualatex/luainputenc\luainputenc.sty
+Package: luainputenc 2010/11/19 v0.973 inputenc package for LuaTeX
+) (D:\app\matig\MiKTeX\tex/latex/pgfgantt\pgfgantt.sty
+Package: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
+ (D:\app\matig\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (D:\app\matig\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box55
+) (D:\app\matig\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen263
+\pgf@nodesepend=\dimen264
+) (D:\app\matig\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+)) (D:\app\matig\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (D:\app\matig\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (D:\app\matig\MiKTeX\tex/latex/pgf/math\pgfmath.sty (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen265
+\pgffor@skip=\dimen266
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count163
+\pgfplotmarksize=\dimen267
+)
+\tikz@lastx=\dimen268
+\tikz@lasty=\dimen269
+\tikz@lastxsaved=\dimen270
+\tikz@lastysaved=\dimen271
+\tikz@lastmovetox=\dimen272
+\tikz@lastmovetoy=\dimen273
+\tikzleveldistance=\dimen274
+\tikzsiblingdistance=\dimen275
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count164
+\tikznumberofchildren=\count165
+\tikznumberofcurrentchild=\count166
+\tikz@fig@count=\count167
+ (D:\app\matig\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count168
+\pgfmatrixcurrentcolumn=\count169
+\pgf@matrix@numberofcolumns=\count170
+)
+\tikz@expandcount=\count171
+ (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\arrowsize=\dimen276
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@layerbox@background=\box60
+\pgf@layerboxsaved@background=\box61
+) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (D:\app\matig\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) (D:\app\matig\MiKTeX\tex/latex/pgf/utilities\pgfcalendar.sty (D:\app\matig\MiKTeX\tex/generic/pgf/utilities\pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (D:\app\matig\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+\pgfcalendarcurrentjulian=\count172
+\pgf@cal@easter@Y=\count173
+\pgf@cal@easter@G=\count174
+\pgf@cal@easter@C=\count175
+\pgf@cal@easter@X=\count176
+\pgf@cal@easter@Z=\count177
+\pgf@cal@easter@D=\count178
+\pgf@cal@easter@E=\count179
+\pgf@cal@easter@N=\count180
+\pgf@cal@easter@M=\count181
+\pgf@cal@easter@julianday=\count182
+))
+\gtt@currentline=\count183
+\gtt@lasttitleline=\count184
+\gtt@currgrid=\count185
+\gtt@chartwidth=\count186
+\gtt@lasttitleslot=\count187
+\gtt@elementid=\count188
+\gtt@today@slot=\count189
+\gtt@startjulian=\count190
+\gtt@endjulian=\count191
+\gtt@chartid=\count192
+\gtt@vrule@slot=\count193
+\gtt@calendar@slots=\count194
+\gtt@calendar@weeknumber=\count195
+\gtt@calendar@startofweek=\count196
+\gtt@left@slot=\count197
+\gtt@right@slot=\count198
+) (D:\app\matig\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+ (D:\app\matig\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen277
+\captionmargin@=\dimen278
+\captionwidth=\dimen279
+\caption@tempdima=\dimen280
+\caption@indent=\dimen281
+\caption@parindent=\dimen282
+\caption@hangindent=\dimen283
+)
+\c@caption@flags=\count199
+\c@ContinuedFloat=\count266
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.aux")
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 50.
+ (D:\app\matig\MiKTeX\tex/latex/polski\ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    ... okay on input line 50.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\app\matig\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen284
+\scratchbox=\box62
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen285
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks48
+) (D:\app\matig\MiKTeX\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (D:\app\matig\MiKTeX\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring OFF on input line 50.
+ (D:\app\matig\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (D:\app\matig\MiKTeX\tex/generic/oberdiek\gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count273
+)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+ ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.out") ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.out")
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+LaTeX Font Info:    Encoding `OT4' has changed to `OT1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT4/cmr/m/n --> OT1/cmss/m/n on input line 50.
+LaTeX Font Info:    Encoding `OT4' has changed to `OT1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT4/cmr/bx/n --> OT1/cmss/bx/n on input line 50.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT4/cmr/bx/n --> T1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT4/cmss/m/n --> T1/cmss/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT4/cmss/bx/n --> T1/cmss/m/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT4/cmr/m/it --> T1/cmss/m/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT4/cmr/bx/it --> T1/cmss/m/it on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT4/cmtt/m/n --> T1/cmtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 50.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `normal' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 50.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `bold' on input line 50.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 50.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 50.
+ (D:\app\matig\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (D:\app\matig\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (D:\app\matig\MiKTeX\tex/latex/translator\translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+) (D:\app\matig\MiKTeX\tex/latex/translator\translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (D:\app\matig\MiKTeX\tex/latex/translator\translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (D:\app\matig\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.nav")
+Overfull \hbox (4.41983pt too wide) in paragraph at lines 50--50
+ [][]  
+ []
+
+
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[1
+
+{C:/Users/matig/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc")
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[2
+
+] ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/1_dzienniki.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [3
+
+]
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[4
+
+]
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[5
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/2_30marca.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [6
+
+]
+LaTeX Font Info:    Try loading font information for OML+plm on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/polski\omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/polski\omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/polski\omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 34.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 34.
+ (D:\app\matig\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+Underfull \hbox (badness 1221) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Stan epi-de-mii ko-ro-na-wi-rusa
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Stan epi-de-mii ko-ro-na-wi-rusa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Go±¢ wy-da-rze«: Grze-gorz
+ []
+
+
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[7
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/3_31marca.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [8
+
+]
+Underfull \hbox (badness 1448) in paragraph at lines 32--32
+[]\T1/cmss/m/n/6 Opinia pre-zy-denta Dudy o
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 32--32
+[]\T1/cmss/m/n/6 Stan epi-de-mii ko-ro-na-wi-rusa
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 32--32
+[]\T1/cmss/m/n/6 Apele ra-tow-ni-ków me-dycz-
+ []
+
+
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[9
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/4_6kwietnia.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [10
+
+]
+Underfull \hbox (badness 5592) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Rezygnacja Ja-ro-sªawa Go-
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Rezygnacja Ja-ro-sªawa Go-
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Sytuacja pol-skich przed-si¦-
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Stan epi-de-mii ko-ro-na-wi-rusa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Pomoc spo-ªe-cze«-stwa dla
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Stan epi-de-mii ko-ro-na-wi-rusa
+ []
+
+
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[11
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/5_17kwietnia.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Sytuacja epidemiologiczno-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Sytuacja epidemiologiczno-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/cmss/m/n/6 Perspektywa roz-mra-»a-nia
+ []
+
+
+Overfull \hbox (4.41983pt too wide) has occurred while \output is active
+ [][]  
+ []
+
+[13
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/6_ocena.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [14
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/7_podsumowanie.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [15
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/8_konflikt.tex" ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.toc") [16
+
+]) ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\tex/koniec.tex" [17
+
+])
+\tf@nav=\write6
+\openout6 = `main.nav'.
+
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+\tf@snm=\write8
+\openout8 = `main.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+ ("c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: FCAA456233D96DCF686D234199CF304B;524.
+ ) 
+Here is how much of TeX's memory you used:
+ 24528 strings out of 492945
+ 487056 string characters out of 3139070
+ 590969 words of memory out of 3000000
+ 27780 multiletter control sequences out of 15000+200000
+ 15433 words of font info for 39 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,15n,69p,836b,752s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss2488.pk> <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx0600.pk> <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\matig\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk>
+Output written on "c:/Users\matig\Desktop\Magisterskie\Semestr 1\MPPS\Prezentacja\main.pdf" (17 pages, 198069 bytes).
+PDF statistics:
+ 833 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+
